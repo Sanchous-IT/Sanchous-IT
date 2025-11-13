@@ -19,10 +19,10 @@
 
 <!-- [![Codewarrior Profile Badges](https://www.codewars.com/users/HHuRoKaN/badges/large)](https://www.codewars.com/users/HHuRoKaN) -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=HHuRoKaN&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=HHuRoKaN&hide=contribs&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=Sanchous-IT&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Sanchous-IT&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HHuRoKaN&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHuRoKaN&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchous-IT&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchous-IT&layout=compact" />
 </a>
 </div>
